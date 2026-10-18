@@ -1,0 +1,9 @@
+{
+  "appName": "HealthApp",
+  "environment": "development",
+  "sessionTimeout": 30,
+  "modules": {
+    "login": true,
+    "patients": true
+  }
+}
